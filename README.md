@@ -2,7 +2,7 @@
 # Nama  : WILIANTO
 # Kelas : TI.19.B2
 # Nim   : 311910184
-# Latihan Praktikum 7 Pemograman Web
+# Latihan Praktikum 7 Pemograman Web & Tugas Membuat Form Input
 # 1. mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
   ![image](https://user-images.githubusercontent.com/81583408/117105714-cbc92480-ada8-11eb-9464-05c8c83f307d.png)
 # 2.	Buat file baru dengan nama php_dasar.php
