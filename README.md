@@ -45,6 +45,30 @@
   ![image](https://user-images.githubusercontent.com/81583408/117106634-6a09ba00-adaa-11eb-92a1-fdc1ac7d2cf8.png)
 # Tampilan di Browser
   ![image](https://user-images.githubusercontent.com/81583408/117106671-78f06c80-adaa-11eb-9603-91918fe15cea.png)
+  
+#TUGAS MEMBUAT PROGRAM PHP SEDERHANA DENGAN FORM INPUT
+# 1. Source Kode halaman inpu
+ ![image](https://user-images.githubusercontent.com/81583408/117295049-93574280-ae9d-11eb-8a2f-68b0662ef5bb.png)
+# 2. Source Kode halaman output
+  ![image](https://user-images.githubusercontent.com/81583408/117295825-80913d80-ae9e-11eb-8c47-347bfe387fe3.png)
+# Tampilan form input
+  ![image](https://user-images.githubusercontent.com/81583408/117295287-da453800-ae9d-11eb-9ded-c36caaa73736.png)
+# Tampilan Mengisi Tanggal Lahir
+  ![image](https://user-images.githubusercontent.com/81583408/117295386-f9dc6080-ae9d-11eb-9140-c9622fefa971.png)
+# Tampilan Memilih Pekerjaan
+  ![image](https://user-images.githubusercontent.com/81583408/117295434-0b256d00-ae9e-11eb-900b-89c932ee08ef.png)
+# Tampilan Form Output 
+  ![image](https://user-images.githubusercontent.com/81583408/117295537-2e501c80-ae9e-11eb-9a52-15be862f0335.png)
+# Tampilan output berbeda pekerjaan 
+  ![image](https://user-images.githubusercontent.com/81583408/117295749-6bb4aa00-ae9e-11eb-8157-c48c3040c5d3.png)
+
+
+
+
+  
+
+
+
 
   
 
