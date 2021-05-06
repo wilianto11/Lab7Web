@@ -46,7 +46,7 @@
 # Tampilan di Browser
   ![image](https://user-images.githubusercontent.com/81583408/117106671-78f06c80-adaa-11eb-9603-91918fe15cea.png)
   
-#TUGAS MEMBUAT PROGRAM PHP SEDERHANA DENGAN FORM INPUT
+# TUGAS MEMBUAT PROGRAM PHP SEDERHANA DENGAN FORM INPUT
 # 1. Source Kode halaman inpu
  ![image](https://user-images.githubusercontent.com/81583408/117295049-93574280-ae9d-11eb-8a2f-68b0662ef5bb.png)
 # 2. Source Kode halaman output
